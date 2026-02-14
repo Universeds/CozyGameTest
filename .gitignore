@@ -1,0 +1,10 @@
+# Project place file
+/OrthogonalFrameworkV2.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+.vscode/settings.json
+
+# Package directories
+/Packages
